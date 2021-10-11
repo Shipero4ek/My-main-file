@@ -1,0 +1,22 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+text-align: center;
+}
+p{
+    text-align: center;
+
+}
+td{
+    height: 200px;
+    width: 200px;
+}
+td:hover{
+    border: 3px solid black;
+}
